@@ -1,1 +1,8 @@
-[{"id":"b21cc5f5-7069-4062-bc2f-f62fcea9e540","username":"Test user 1","email":"testuser1@gmail.com","password":"12345abcd"}]
+[
+  {
+    "id": "e31104ac-a6d0-4427-835f-35f541b2a536",
+    "username": "Emiliano Jaime",
+    "email": "emilianojaime123@gmail.com",
+    "password": "emiliano12345"
+  }
+]
